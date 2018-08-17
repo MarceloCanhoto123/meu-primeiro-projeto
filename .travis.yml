@@ -1,6 +1,7 @@
 os:
-  - windows
+  - linux
   - osx
+  - windows
 language: java
 jdk:
   - oraclejdk8
